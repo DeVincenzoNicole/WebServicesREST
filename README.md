@@ -1,7 +1,7 @@
 # Título
 WebServicesREST
-***
-Descripción
+
+# Descripción
 
 Aplicación de Servicios RESTful con Spring Boot
 En esta pequeña aplicación:
