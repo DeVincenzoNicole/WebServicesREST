@@ -1,10 +1,9 @@
 # Título
-WebServicesREST
+Web Services REST
 
 # Descripción
 
-Aplicación de Servicios RESTful con Spring Boot
-En esta pequeña aplicación:
+Aplicación de Servicios RESTful con Spring Boot. En esta pequeña aplicación:
 - Cree métodos para manejar HTTP Request (POST, GET, PUT y DELETE)
 - Implementé el manejo de variables de Spring
 - Devoluciones de objetos en formato JSON y XML
